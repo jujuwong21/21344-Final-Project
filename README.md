@@ -1,5 +1,5 @@
 # 21-344 Final Project
-Final Project for 21-344 (Numerical Linear Algebra) Spring 2021
+Final Project for 21-344 (Numerical Linear Algebra), Spring 2021
 
 Greetings! If you've stumbled on this page, you either (1) read my 21-344 Course Project Paper or (2) are browsing through my Github account for some reason. 
 My final project for 21-344 was on Discrete-Time Markov Chains. In this Github repository, you can see some of the work I did for the project.
